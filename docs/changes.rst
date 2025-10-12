@@ -15,6 +15,8 @@ Pending
 * Added ``CommunityPanel`` containing links to documentation and resources.
 * Added how to generate the documentation locally to the contributing
   documentation.
+* Deprecated ``RedirectsPanel`` in favor of ``HistoryPanel`` for viewing
+  toolbar data from redirected requests.
 
 6.0.0 (2025-07-22)
 ------------------
